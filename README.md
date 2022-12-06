@@ -61,7 +61,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:shella12/reactTodo.git
 ```
 
 ## Install
@@ -102,7 +102,7 @@ Give a ⭐️ if you like this project!
 
 - **[Why use this app?]**
 
-  - [To create a personal book store. Add and remove books in the store and access them anywhere using the website]
+  - [To manage day-to-day tasks]
 
 - **[Why build this app?]**
 

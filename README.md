@@ -41,7 +41,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-Click here to see the [Live Demo](https://636d4335ca433e14cbbda6f5--lovely-frangipane-389b3a.netlify.app/) of the website 
+Click here to see the [Live Demo](https://ibaslogic.github.io/react-todo-project/) of the website 
 
 ## 💻 Getting Started <a name="getting-started"></a>
 

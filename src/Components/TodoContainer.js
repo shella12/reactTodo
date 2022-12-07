@@ -5,7 +5,7 @@ import TodoList from "./TodosList";
 import { v4 as uuidv4 } from "uuid";
 
 const TodoContainer = () => {
-  const [state, setState] = useState(JSON.parse(localStorage.getItem("state")||{todos:[]}))
+  const [state, setState] = useState((JSON.parse(localStorage.getItem("state"))||{todos:[]}))
 
   useEffect(() => {
     // storing todos items

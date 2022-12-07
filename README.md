@@ -41,7 +41,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-Click here to see the [Live Demo](https://ibaslogic.github.io/react-todo-project/) of the website 
+Click here to see the [Live Demo]( https://shella12.github.io/reactTodo/) of the website 
 
 ## 💻 Getting Started <a name="getting-started"></a>
 

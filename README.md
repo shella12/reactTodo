@@ -18,7 +18,7 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 [Math Magician] <a name="about-project"></a>
+# 📖 [To Do ] <a name="about-project"></a>
 
 > To-Do is a task management app to help you stay organized and manage your day-to-day. You can use To-Do to make shopping lists or task lists, take notes, record collections, plan an event, or set reminders to increase your productivity and focus on what matters to you.
 
@@ -41,7 +41,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-Click here to see the [Live Demo](https://ibaslogic.github.io/react-todo-project/) of the website 
+Click here to see the [Live Demo]( https://shella12.github.io/reactTodo/) of the website 
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
